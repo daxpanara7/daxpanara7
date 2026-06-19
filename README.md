@@ -16,7 +16,7 @@
 - 🌱 Currently deepening my expertise in **Python**, **AWS** and **system design**
 - �~ I work across the full stack — from **Laravel/Node.js** backends to **Vue & React** frontends
 - 🛒 Strong background in **e-commerce**: Magento, OpenCart, Shopify & WordPress
-- 📫 Reach me at: **server.tassos@gmail.com**
+- 📫 Reach me at: **daxpanara7@gmail.com**
 - ⚡ Fun fact: I love turning messy legacy systems into clean, maintainable code
 
 ---
