@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dax Panara</h1>
-<h3 align="center">Full-Stack Developer | PHP · Node.js · Laravel · Vue · React</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daxpanara7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/daxpanara7?tab=followers">
-    <img src="https://img.shields.io/github/followers/daxpanara7?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/daxpanara7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+%C2%B7+Node.js+%C2%B7+Laravel+%C2%B7+Vue+%C2%B7+React;Building+scalable+web+applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,11 +10,30 @@
 
 ### 🧑‍💻 About Me
 
-I specialize in **full-stack web development**, focusing on building **scalable applications** using **PHP, Node.js, React.js** and modern web technologies for **E-commerce, FinTech, ERP, and transportation** sectors. My expertise includes delivering impactful solutions, optimizing performance, and ensuring seamless integration to meet high standards of quality and efficiency. I have hands-on experience working with clients from the **US and UK**, contributing to projects for some of the top-ranking websites and enterprise systems.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🌱 Currently deepening my expertise in **Python**, **AWS** and **system design**
-- 📫 Reach me at: **daxpanara7@gmail.com**
+I specialize in **full-stack web development**, building **scalable applications** with **PHP, Node.js & React.js** for the **E-commerce, FinTech, ERP & transportation** sectors.
+
+I focus on delivering impactful solutions, optimizing performance, and ensuring seamless integration to meet high standards of quality and efficiency.
+
+🌍 Hands-on experience with **US & UK clients**, contributing to top-ranking websites and enterprise systems.
+
+<br/>
+
+- 🌱 Currently deepening my skills in **Python**, **AWS** & **system design**
+- 📫 Reach me at **daxpanara7@gmail.com**
 - ⚡ Fun fact: I love turning messy legacy systems into clean, maintainable code
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding" />
+
+</td>
+</tr>
+</table>
 
 ---
 
