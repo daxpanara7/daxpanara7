@@ -78,16 +78,16 @@ I focus on delivering impactful solutions, optimizing performance, and ensuring 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daxpanara7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daxpanara7&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daxpanara7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=daxpanara7&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxpanara7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxpanara7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daxpanara7&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daxpanara7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 </p>
 
 ---
