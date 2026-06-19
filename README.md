@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daxpanara7&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
 ---
