@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Developer | PHP · Node.js · Laravel · Vue · React</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=daxpanara7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/daxpanara7?tab=followers">
+    <img src="https://img.shields.io/github/followers/daxpanara7?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
@@ -12,10 +12,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I build **scalable web applications** and **REST/SOAP APIs** for ERP, e-commerce & business platforms
+I specialize in **full-stack web development**, focusing on building **scalable applications** using **PHP, Node.js, React.js** and modern web technologies for **E-commerce, FinTech, ERP, and transportation** sectors. My expertise includes delivering impactful solutions, optimizing performance, and ensuring seamless integration to meet high standards of quality and efficiency. I have hands-on experience working with clients from the **US and UK**, contributing to projects for some of the top-ranking websites and enterprise systems.
+
 - 🌱 Currently deepening my expertise in **Python**, **AWS** and **system design**
-- �~ I work across the full stack — from **Laravel/Node.js** backends to **Vue & React** frontends
-- 🛒 Strong background in **e-commerce**: Magento, OpenCart, Shopify & WordPress
 - 📫 Reach me at: **daxpanara7@gmail.com**
 - ⚡ Fun fact: I love turning messy legacy systems into clean, maintainable code
 
@@ -62,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daxpanara7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daxpanara7&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxpanara7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
@@ -82,14 +81,14 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:server.tassos@gmail.com">
+  <a href="mailto:daxpanara7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/daxpanara7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> — always building, always learning.</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/daxpanara7">daxpanara7</a> — always building, always learning.</i></p>
